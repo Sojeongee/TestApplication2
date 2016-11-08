@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestApplication2</string>
+
+    <string name="mypage">마이페이지</string>
+
+    <string name="about">분야 선택</string>
+
+    <string name="region">지역 선택</string>
+
+    <string name="notice">공지사항</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
